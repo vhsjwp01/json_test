@@ -1,0 +1,37 @@
+{
+  "Heinlein,Robert": {
+    "1955": [
+      "Tunnel in the Sky"
+    ].
+    "1961": [
+      "Stranger in a Strange Land"
+    ],
+    "1966": [
+      "The Moon Is a Harsh Mistress"
+    ]
+  },
+  "Niven,Larry": {
+    "1966": [
+      "World of Ptavvs"
+    ],
+    "1968": [
+      "A Gift from Earth",
+      "Neutron Star",
+    ],
+    "1970": [
+      "Ringworld",
+    ],
+    "1973": [
+      "Protector"
+    ],
+    "1976": [
+      "A World Out of Time"
+    ],
+    "1984": [
+      "The Integral Trees"
+    ],
+    "!987": [
+      "The Smoke Ring"
+    ]
+  }
+}
